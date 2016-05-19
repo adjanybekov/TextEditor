@@ -1,0 +1,10 @@
+The goal OF This assignment was to learn Using Linked Lists, stacks , and Queues. 
+I was responsible for implementing a functions for
+ActionTypes History such as backspace, del, NewLine , Undo , Redo using indicated Data structures.
+Moreover I analyzed possible crashes , performed testing for the
+cases such creating putting the ActionType into the stack and then Pulling it back,
+In correct order.
+We Used doubly Linked lists Since it was easy to pick the elements from
+Each character is A node and it has been connected to the next and previous character,
+Each Line is a LinkedList that is saved in the Vector of LinkedLists.
+
